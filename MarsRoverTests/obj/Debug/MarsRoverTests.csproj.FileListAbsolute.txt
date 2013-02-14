@@ -1,0 +1,7 @@
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRoverTests\bin\Debug\MarsRoverTests.dll
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRoverTests\bin\Debug\MarsRoverTests.pdb
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRoverTests\obj\Debug\MarsRoverTests.csprojResolveAssemblyReference.cache
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRoverTests\obj\Debug\MarsRoverTests.dll
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRoverTests\obj\Debug\MarsRoverTests.pdb
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRoverTests\bin\Debug\MarsRover.exe
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRoverTests\bin\Debug\MarsRover.pdb

@@ -1,0 +1,8 @@
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRover\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRover\obj\Debug\MarsRover.Properties.Resources.resources
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.GenerateResource.Cache
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
+D:\Dropbox\University\Job Applications\Thoughtworks\MarsRover\MarsRover\obj\Debug\MarsRover.MarsRoverUI.resources
