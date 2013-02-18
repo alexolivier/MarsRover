@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// Author: Alex Olivier
+// Task: ThoughtWorks coding assessment
+// Module: Robot class for simulation
+
 namespace MarsRover.Models
 {
     //enum to restrict rotation options (new rotations would be added here)

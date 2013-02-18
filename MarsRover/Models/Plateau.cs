@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// Author: Alex Olivier
+// Task: ThoughtWorks coding assessment
+// Module: Pateau Data Structure and tests
+
 namespace MarsRover.Models
 {
     //model for the plateau holding its dimensions

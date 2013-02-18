@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using MarsRover.Models;
 
+// Author: Alex Olivier
+// Task: ThoughtWorks coding assessment
+// Module: String Instruction Parser
+
 namespace MarsRover
 {
     //Parser subsystem takes in the string, validates it, setups up the  the plateau and robots and then runs the instructions on the robots

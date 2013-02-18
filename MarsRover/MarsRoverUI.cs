@@ -8,6 +8,11 @@ using System.Text;
 using System.Windows.Forms;
 using MarsRover.Models;
 
+// Author: Alex Olivier
+// Task: ThoughtWorks coding assessment
+// Module: UI Frontend
+
+
 namespace MarsRover
 {
     public partial class MarsRoverUI : Form

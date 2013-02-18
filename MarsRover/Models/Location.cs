@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+// Author: Alex Olivier
+// Task: ThoughtWorks coding assessment
+// Module: Location Data Structure
+
 namespace MarsRover.Models
 {
     //Location data structure to hold X,Y and Orientation
